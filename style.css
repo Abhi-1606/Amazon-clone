@@ -203,7 +203,7 @@ a{
 }
 /* Hero-section */
 .hero-section{
-    background-image:url("hreo.jpg");
+    background-image:url("hero.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
